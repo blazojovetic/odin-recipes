@@ -1,0 +1,26 @@
+h1,
+h2,
+p,
+li
+{
+    font-family: "Times New Roman", sans-serif
+}
+
+h1
+{
+    background-color: salmon;
+    text-align: center;
+}
+
+h2 {
+    background-color: lavenderblush;
+    font-size: 27px;
+}
+
+p {
+    font-size: 22px;
+}
+
+li {
+    font-size: 20px;
+}
